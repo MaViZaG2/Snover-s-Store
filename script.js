@@ -10,11 +10,11 @@ productos.push(
     imagen: "https://i.imgur.com/nZ1Qh1o.jpeg"
   },
   {
-    nombre: "Sudadera Akatsuki",
+    nombre: "Monedero de rana",
     categoria: "ropa",
-    precio: 85,
-    descripcion: "Sudadera negra con nubes rojas. Ideal para sentirte parte de la organización.",
-    imagen: "https://i.imgur.com/yJ3TQ8U.jpeg"
+    precio: 18,
+    descripcion: "Monedero de rana del anime Naruto y Naruto Shippuden",
+    imagen: "https://i.postimg.cc/S2Tnt8Hz/IMG-20250826-WA0124.jpg"
   },
   {
     nombre: "Collar de Inuyasha",
@@ -84,3 +84,4 @@ function cerrarDetalle() {
 
 // Mostrar todos los productos al cargar
 mostrarProductos(productos);
+
